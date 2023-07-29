@@ -1,6 +1,6 @@
  👋 Hi, I’m seokpyo.
  
- 👀 I’m interested in Web development and graphic design especially Type.
+ 👀 I’m interested in Web development and graphic design, especially Type.
  
  🌱 I’m currently learning JavaScript.
  
